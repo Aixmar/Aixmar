@@ -13,13 +13,13 @@ A medida que mi círculo de amigos se fue completando con programadores e ingeni
 
 Además, tengo un gran interés en el área de diseño, especialmente en la creación de interfaces de usuario atractivas y funcionales, y en la experiencia del usuario. 
 
-## ¿Qué hago?
+### ¿Qué hago?
+Me sigo capacitando constantemente, me gusta aprender nuevas tecnologías y profundizar en las ya aprendidas.
 
-
-## ¿A dónde me dirijo?
+### ¿A dónde me dirijo?
 Mi objetivo es desarrollar mis habilidades tanto en el área de Front end como en el diseño para poder combinar ambos campos y crear productos digitales que sean atractivos, intuitivos y satisfactorios para los usuarios.
 
-## ¿Qué tecnologías utilizo?
+### ¿Qué tecnologías utilizo?
 JavaScript | ReactJS | CSS | HTML | SQL | NodeJS | Express | Sequelize 
 
 ### 📫 No dudes en contactarme!
@@ -28,17 +28,29 @@ Mail: aixamarianag@gmail.com
 
 *********************************************************************************
 
-# Hi! Welcome! My name is Aixa Galin 
+# Hi! My name is Aixa Galin
 
-### You can also find me as Aixmar on GitHub 
+### You can find me as Aixmar on GitHub 💻
 
-## ¿Who am I?
+### Where do I come from?
+Technology has always been present in my family environment since I was born. On the one hand, I have Japanese descent 🎎, who are very involved in new technologies. On the other hand, my grandfather and father are electronic engineers, so technology has been part of my life since always.
 
-## ¿Qué hago?
+Thanks to this influence, I developed a great interest in the use and application of technology.
 
-## ¿A dónde me dirijo?
+During my school years, I obtained multiple certifications endorsed by UTN in the field of technology. However, later on, my interest turned towards the artistic and creative field, and I dedicated myself to studying music, musical instruments, dubbing, musical theater, and vocal health. I graduated as a speech therapist from UBA and, in parallel, took multiple design courses, including tools such as Adobe Illustrator, Procreate, and Photoshop 🎨.
 
-## ¿Qué tecnologías utilizo?
-JavaScript | ReactJS | CSS | SQL | NodeJS | Express | Sequelize 
+As my circle of friends expanded to include programmers and computer engineers, my interest in the subject grew 💻. Finally, at the end of 2022, I took the courage and completed the Henry pre-entry course to test my programming skills. Now, I am excited to continue learning and developing my skills as a Full Stack developer.
 
-### 📫 Mo dudes en contactarme!
+In addition, I have a great interest in the field of design, especially in creating attractive and functional user interfaces, and in user experience.
+
+### What do I do?
+I am constantly training myself, I like to learn new technologies and delve deeper into the ones I have already learned.
+
+### Where am I heading?
+My goal is to develop my skills in both Front End and Design, to be able to combine both fields and create digital products that are attractive, intuitive, and satisfying for users.
+
+### What technologies do I use?
+JavaScript | ReactJS | CSS | HTML | SQL | NodeJS | Express | Sequelize
+
+### 📫 Don't hesitate to contact me!
+Email: aixamarianag@gmail.com
