@@ -20,7 +20,7 @@ Además, tengo un gran interés en el área de diseño, especialmente en la crea
 Mi objetivo es desarrollar mis habilidades tanto en el área de Front end como en el diseño para poder combinar ambos campos y crear productos digitales que sean atractivos, intuitivos y satisfactorios para los usuarios.
 
 ## ¿Qué tecnologías utilizo?
-JavaScript | ReactJS | CSS | SQL | NodeJS | Express | Sequelize 
+JavaScript | ReactJS | CSS | HTML | SQL | NodeJS | Express | Sequelize 
 
 ### 📫 No dudes en contactarme!
 Mail: aixamarianag@gmail.com
