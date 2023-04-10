@@ -1,8 +1,8 @@
 # Hola! Mi nombre es Aixa Galin 
 
-### Me podés encontrar como Aixmar en GitHub 
+### Me podés encontrar como Aixmar en GitHub 💻
 
-## ¿Quién soy?
+## ¿Quién soy? 
 
 ## ¿Qué hago?
 
@@ -10,7 +10,7 @@
 
 ## ¿Qué tecnologías uso?
 
-## Mo dudes en contactarme!
+## 📫 No dudes en contactarme!
 
 
 *********************************************************************************
@@ -27,4 +27,4 @@
 
 ## ¿Qué tecnologías uso?
 
-## Mo dudes en contactarme!
+## 📫 Mo dudes en contactarme!
