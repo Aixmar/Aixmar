@@ -1,6 +1,6 @@
 # Hola! Mi nombre es Aixa Galin 
 
-### Me podés encontrar como `#ffffff` Aixmar en GitHub 💻
+### Me podés encontrar como `#RRGGBB` Aixmar en GitHub 💻
 
 ### ¿De dónde vengo? 
 Desde mi primer momento de vida, la tecnología siempre estuvo presente en mi entorno familiar. Por un lado, tengo descendencia japonesa 🎎, que están muy vinculados a las nuevas tecnologías. Por otro lado, mi abuelo y mi padre son ingenieros electrónicos, por lo que la tecnología ha sido parte de mi vida desde siempre. 
